@@ -1,0 +1,7 @@
+{
+  "name": "news-world",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
